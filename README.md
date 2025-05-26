@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajith</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithvijay001&label=Profile%20views&color=0e75b6&style=flat" alt="ajithvijay001" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajithvijay001" alt="ajithvijay001" /></a> </p>
-
 - 🔭 I’m currently working on [MemoRise](https://github.com/ajithvijay001/MemoRise)
 
 - 📫 How to reach me **ajith007.v@gmail.com**
