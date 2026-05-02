@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajith</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [Sentinel-AI](https://github.com/ajithvijay001/SentinelAi)
+- 🔭 I’m currently working on [Sentinel-AI](https://github.com/ajithvijay001/Sentinel-AI)
 
 - 📫 How to reach me **ajith007.v@gmail.com**
 
